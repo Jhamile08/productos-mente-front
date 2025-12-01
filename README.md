@@ -17,7 +17,7 @@ Asegúrate de tener instalado:
 # Frontend – Vite + React
 Clonar el frontend
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPO_FRONTEND.git](https://github.com/Jhamile08/productos-mente-front.git
+git clone https://github.com/Jhamile08/productos-mente-front.git
 cd productos-mente-front
 ```
 # 3. Instalar dependencias
